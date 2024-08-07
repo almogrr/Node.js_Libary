@@ -1,0 +1,174 @@
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+GET /books/ 400 7ms
+GET /books/ 400 7ms
+
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+GET /books/ 400 7ms
+GET /books/ 400 7ms
+
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+GET /books/ 400 6ms
+GET /books/ 400 6ms
+
+POST /login/ 200 149ms
+POST /login/ 200 149ms
+
+POST /login/ 200 105ms
+POST /login/ 200 105ms
+
+GET /books/ 400 1ms
+GET /books/ 400 1ms
+
+Server is listening on port 3005
+Successfully connected to the database
+GET /books/ 400 6ms
+GET /books/ 400 6ms
+
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+GET /books/ 400 5ms
+GET /books/ 400 5ms
+
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+GET /books 400 5ms
+GET /books 400 5ms
+
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+GET /books 400 5ms
+GET /books 400 5ms
+
+Server is listening on port 3005
+Successfully connected to the database
+GET /books 400 16ms
+GET /books 400 16ms
+
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+POST /login/ 200 148ms
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+Books retrieved
+GET /books/ 200 14ms
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+Books retrieved
+GET /books 200 10ms
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+POST /books 200 24ms
+POST /loans 200 12ms
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+POST /loans 401 7ms
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+POST /loans 200 25ms
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+POST /loans/66b24230775de1ad20cc0dfb/return 200 20ms
+GET /loans/66b24230775de1ad20cc0dfb/return 404 1ms
+GET /loans/%3C66b24230775de1ad20cc0dfb%3E/return 404 1ms
+Server is listening on port 3005
+Successfully connected to the database
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+Loans retrieved
+GET /loans/ 200 23ms
+GET /loans/%2266b24230775de1ad20cc0dfb%22/return 404 1ms
+GET /loans/%3C%2266b24230775de1ad20cc0dfb%22%3E/return 404 1ms
+GET /loans/%3C1%3E/return 404 1ms
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+Loans retrieved
+GET /loans/ 200 11ms
+GET /loans/%3C66b24230775de1ad20cc0dfb%3E/return 404 0ms
+GET /loans/%22%3C66b24230775de1ad20cc0dfb%3E%22/return 404 1ms
+GET /loans/%2266b24230775de1ad20cc0dfb%22/return 404 1ms
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+Error retrieving loan: Cast to ObjectId failed for value ""66b24230775de1ad20cc0dfb"" (type string) at path "_id" for model "Loan"
+POST /loans/%2266b24230775de1ad20cc0dfb%22/return 500 8ms
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+Error retrieving loan: Cast to ObjectId failed for value ""<66b24230775de1ad20cc0dfb>"" (type string) at path "_id" for model "Loan"
+POST /loans/%22%3C66b24230775de1ad20cc0dfb%3E%22/return 500 6ms
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+Error retrieving loan: Cast to ObjectId failed for value "<66b24230775de1ad20cc0dfb>" (type string) at path "_id" for model "Loan"
+POST /loans/%3C66b24230775de1ad20cc0dfb%3E/return 500 7ms
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+Error retrieving loan: Cast to ObjectId failed for value "<66b24230775de1ad20cc0dfb>" (type string) at path "_id" for model "Loan"
+POST /loans/%3C66b24230775de1ad20cc0dfb%3E/return 500 6ms
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+Error retrieving loan: Cast to ObjectId failed for value "<66b24230775de1ad20cc0dfb>" (type string) at path "_id" for model "Loan"
+POST /loans/%3C66b24230775de1ad20cc0dfb%3E/return 500 6ms
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+Loan returned: id 66b24230775de1ad20cc0dfb, late: false
+POST /loans/66b24230775de1ad20cc0dfb/return 200 31ms
+Token:
+ttteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NmIyMWE5ZjkwYTAyNjExYjFjZmI4ODEiLCJ1c2VybmFtZSI6ImEiLCJpYXQiOjE3MjI5NTY5NzQsImV4cCI6MTcyMjk2MDU3NH0.zRdPUwOMzXx2Ha-uhBvrcKU6TcvN08WBvKiGtrYBMzo
+Loans retrieved
+GET /loans/ 200 9ms
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+Server is listening on port 3005
+Successfully connected to the database
+GET / 200 15ms
+GET /favicon.ico 404 4ms
+GET /login 404 1ms
